@@ -31,6 +31,8 @@ As the application server market matures, high performance becomes a stronger cr
  
 ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/8ead363c-7b62-42de-8918-2493fdf96696)
 
+![Screenshot 2024-04-25 134729](https://github.com/Srivatsan0405/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/139841630/9e3a44e0-5804-4ae5-b2a0-98c70539e804)
+![Screenshot 2024-04-25 134745](https://github.com/Srivatsan0405/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/139841630/a0bb3cd8-da83-4540-bc0d-2448946f5f0b)
 
 
 ## Results: 
